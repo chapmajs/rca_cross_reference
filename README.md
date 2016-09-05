@@ -1,7 +1,7 @@
 # Cross Reference Numbers for RCA Logic
 
-RCA TTL-ish Logic
------------------
+RCA 7400 CMOS Logic
+-------------------
 
 Below is the cross-reference for RCA HC and HCT logic I have, with RCA/house numbers.
 
